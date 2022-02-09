@@ -3,5 +3,5 @@
 A passionate Java developer
 
 - 🔭 I’m currently Focusing on Java、Python
-⚡ Interested in full stack.
+- ⚡ Interested in full stack.
 
